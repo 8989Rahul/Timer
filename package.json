@@ -8,7 +8,10 @@
     "eject": "expo eject"
   },
   "dependencies": {
+    "eslint": "^7.1.0",
+    "eslint-config-handlebarlabs": "0.0.5",
     "expo": "~37.0.3",
+    "prettier": "^2.0.5",
     "react": "~16.9.0",
     "react-dom": "~16.9.0",
     "react-native": "https://github.com/expo/react-native/archive/sdk-37.0.1.tar.gz",
